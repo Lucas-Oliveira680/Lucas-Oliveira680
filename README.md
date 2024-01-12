@@ -1,4 +1,4 @@
-<h1 align="center">Lucas Oliveira 🇧🇷</h1>
+<h1 align="center">Lucas Oliveira</h1>
 
 <h2 align="center">Front-End Developer</h2>
 
