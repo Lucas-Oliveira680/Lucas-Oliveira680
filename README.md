@@ -2,7 +2,7 @@
   <img src="https://lucascodes.dev/assets/gifs/spr_lucas.gif" width="400px" alt="Lucas Oliveira" />
 </p>
 
-<h1 align="center">Lucas Oliveira 🇧🇷</h1>
+<h1 align="center">Lucas Oliveira</h1>
 
 <h2 align="center">Front-End Developer</h2>
 
@@ -31,7 +31,7 @@
 - **Additional Skills**: Node.js, Express, MySQL
 
 ### 💬 Languages
-- Fluent in **English** 🇺🇸 and **Brazilian Portuguese** 🇧🇷
+- Fluent in **English** and **Brazilian Portuguese**
 
 ---
 
